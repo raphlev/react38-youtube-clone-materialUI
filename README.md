@@ -12,9 +12,9 @@ https://github.com/adrianhajdin/project_youtube_clone
 npm install --legacy-peer-deps
 npm start
 
-CSS Gradient
-Build CSS Gradient on ChannelDetail page:
-https://cssgradient.io/
+CSS Gradient: 
+- Build CSS Gradient on ChannelDetail page:
+- https://cssgradient.io/
 
 
 https://mui.com/
