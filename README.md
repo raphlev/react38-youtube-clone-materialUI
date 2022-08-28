@@ -12,6 +12,11 @@ https://github.com/adrianhajdin/project_youtube_clone
 npm install --legacy-peer-deps
 npm start
 
+CSS Gradient
+Build CSS Gradient on ChannelDetail page:
+https://cssgradient.io/
+
+
 https://mui.com/
 
 MUI HELP : hover with mouse on the mui class from js/jsx class, then clisk either DEMO or API to display html page
