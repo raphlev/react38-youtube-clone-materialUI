@@ -30,3 +30,5 @@ Example: from Box, hover on it in ChannelCard.jsx, then click on Demos to see ho
     API:
 
     Box API
+
+_redirects : file created in public with content to solve netlify issue
